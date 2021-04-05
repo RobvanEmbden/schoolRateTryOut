@@ -1,0 +1,15 @@
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.csprojAssemblyReference.cache
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.AssemblyInfoInputs.cache
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.AssemblyInfo.cs
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/bin/Debug/net5.0/schoolRateTryOut.deps.json
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/bin/Debug/net5.0/schoolRateTryOut.runtimeconfig.json
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/bin/Debug/net5.0/schoolRateTryOut.runtimeconfig.dev.json
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/bin/Debug/net5.0/schoolRateTryOut.dll
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/bin/Debug/net5.0/ref/schoolRateTryOut.dll
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/bin/Debug/net5.0/schoolRateTryOut.pdb
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.dll
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/ref/schoolRateTryOut.dll
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.pdb
+/Users/rob/Projects/schoolRateTryOut/schoolRateTryOut/obj/Debug/net5.0/schoolRateTryOut.genruntimeconfig.cache
